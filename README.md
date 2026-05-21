@@ -1,16 +1,19 @@
-## Hi there 👋
+# Salar Alo
 
-<!--
-**Victor-snt000/Victor-snt000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+17-year-old programmer based in Germany  
+Early-entry Computer Science student (B.Sc.) at the University of Koblenz  
+...
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Game Engine Architecture and Rendering Systems
+- C++
+- Haskell
+
+## Currently Learning / Reading
+
+- Game Engine Programming
+- Compiler and Interpreter Programming
+
+Based in Koblenz, Germany  
+Contact: salarmanan8@gmail.com
