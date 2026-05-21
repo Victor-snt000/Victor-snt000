@@ -3,8 +3,6 @@
 18-year-old programmer based in Brazil
 Computer Science student at Unipê
 
----
-
 ## Interests
 
 - Web and Application Development
@@ -14,8 +12,6 @@ Computer Science student at Unipê
 - Low-level Programming and Systems Design
 - Computer Graphics and Rendering Theory
 
----
-
 ## Currently Learning
 
 - Python
@@ -23,4 +19,4 @@ Computer Science student at Unipê
 
 ---
 
-*Contact:* [victor@email.com](mailto:victor@email.com)
+Contact: [seu email aqui]
