@@ -1,19 +1,26 @@
-# Salar Alo
+# Victor
 
-17-year-old programmer based in Germany  
-Early-entry Computer Science student (B.Sc.) at the University of Koblenz  
-...
+18-year-old programmer based in Brazil
+Computer Science student at Unipê
+
+---
 
 ## Interests
 
-- Game Engine Architecture and Rendering Systems
-- C++
-- Haskell
+- Web and Application Development
+- Operating Systems and Systems Programming
+- Computer Networks
+- Interpreters and Compilers
+- Low-level Programming and Systems Design
+- Computer Graphics and Rendering Theory
 
-## Currently Learning / Reading
+---
 
-- Game Engine Programming
-- Compiler and Interpreter Programming
+## Currently Learning
 
-Based in Koblenz, Germany  
-Contact: salarmanan8@gmail.com
+- Python
+- C
+
+---
+
+*Contact:* [victor@email.com](mailto:victor@email.com)
