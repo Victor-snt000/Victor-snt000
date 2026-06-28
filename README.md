@@ -8,7 +8,6 @@ Computer Science student at Unipê
 - Interpreters and Compilers
 - Low-level Programming and Systems Design
 - Computer Graphics and Rendering Theory
-- Performance Optimization
 ## Currently Learning
 - Python
 - C
