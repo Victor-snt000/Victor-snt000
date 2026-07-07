@@ -12,4 +12,4 @@ Computer Science student at Unipê
 - Python
 - C
 ---
-Contact: [VictorSantos01019@protonmail.com]
+Contact: [VictorSantos01018@proton.me]
