@@ -1,7 +1,7 @@
 # Victor
 19-year-old programmer based in Brazil  
 Computer Science student at Unipê  
-🌐 [victor-snt000.github.io](https://victor-snt000.github.io)
+[victor-snt000.github.io](https://victor-snt000.github.io)
 
 ## Interests
 - Web and Application Development
